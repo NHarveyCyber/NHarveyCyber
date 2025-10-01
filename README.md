@@ -6,7 +6,11 @@
   - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
  
 <h2>Certifications:</h2>
-[![Credly Badge](https://raw.githubusercontent.com/NHarveyCyber/NHarveyCyber/main/comptia-a-ce-certification.1.png)](https://www.credly.com/badges/15c7215d-b51b-4bf9-91d0-d0f0004ba9ed/public_url)
+<p align="left">
+  <a href="https://www.credly.com/badges/15c7215d-b51b-4bf9-91d0-d0f0004ba9ed/public_url">
+    <img src="https://raw.githubusercontent.com/NHarveyCyber/NHarveyCyber/main/comptia-a-ce-certification.1.png" alt="Credly Badge" width="100">
+  </a>
+</p>
 <h2> 🤳 Connect with me:</h2>
 
 
