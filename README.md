@@ -3,7 +3,7 @@
 <h2>IT Projects:</h2>
 
 - <b>Windows Server and Windows Client Active Directory Simulation</b>
-  - [Active Directory Lab](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Active Directory Lab](https://github.com/NHarveyCyber/Active-Directory-Project/tree/main)
  
 <h2>Certifications:</h2>
 <p align="left">
